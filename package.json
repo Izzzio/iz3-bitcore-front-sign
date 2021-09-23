@@ -1,0 +1,10 @@
+{
+    "name": "front-sign",
+    "description": "description",
+    "authors": "1MatrixD",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "bitcore-message": "^1.0.4"
+    }
+}
